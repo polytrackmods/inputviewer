@@ -1,0 +1,9 @@
+{
+  "name": "Input Viewer",
+  "author": "cwcinc",
+  "id": "inputviewer",
+  "description": "Shows the default input viewer in the main game UI, not just the replay viewer.",
+  "latest": {
+    "0.6.3": "1.0.0"
+  }
+}
